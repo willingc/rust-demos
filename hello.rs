@@ -3,6 +3,7 @@ fn main() {
         do spawn {
             let greeting_message = "Hello earthlings?";
             println(greeting_message);
+            println("martians have style.");
         }
     }
 }
